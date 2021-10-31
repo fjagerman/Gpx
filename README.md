@@ -16,7 +16,7 @@ dependencies: [
 ]
 ```
 
-If you're using XMLCoder in an app built with Xcode, you can also add it as a direct
+If you're using Gpx in an app built with Xcode, you can also add it as a direct
 dependency [using Xcode's
 GUI](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app).
 
